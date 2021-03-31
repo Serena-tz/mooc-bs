@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1602122956528'); /* IE9 */
+  src: url('iconfont.eot?t=1602122956528#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARMAAsAAAAACIwAAAP/AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqETIN9ATYCJAMQCwoABCAFhG0HRBtrB8gekiQVQQQUAKgCVWgc8fC037dz581XTbubRKNqVSyRTEolQyUl0RTo3raR/lCdNptJtbW2J1T2bJoGLoCXgCd4MH5S+wMH//d5jpkumgaY32ZziSrqfj4c4HhAA4sojLaBbieMN4xdXuR2AnUzzsHOPP3DgaRM7xeIV3RaCpBM2OSKylAVygVTM4i3oKSaaimXAG+8v49/TEMSSEoF0IdePfFIB84/499awZL/Je47BCAfzgM2iwKrgEw8K/Q9AIPkKqgu51NtAKrGN4mf8W/K31r9P1JsRVdF//IoJEGUga5rIuqatjgwuSWL9OVQSOKXleICdNmZUkUNnwA3dMOU9/4kKVWoGiZaMprKKkmYbIQsVSEJyEc2Gj6FN09rUHCs94YlvnxNB+BF75YlrU4lvbm9Y0Raur4FpHcTIDmFYW1tSSoWLB051tWpRrZm37kTeetW+O3bAdjT3KFaFFO/ezdK2tKkup7btyPy8u/cYdWNa7a0lGiSpuIYQaW16u5tg1u3Inrv2LYOq7Tyj2xqtozZfqwr9UTrcHuH6vHLtw1Sn9jWpXbnjhO/sd+joXOpxOOc1xcvgN0IwrZDsXZCyqGmWtwtOZ/rJl5V5QA31wS9qp+nqjZiLxTJG+KPahFwQ3VW9VClV/JSPR+/VOuFG2qzauSICKmH9bMKRRd8J6arP4PFOEreyEgeJZ8yPBKcBASdl7yNO1HZqorO378pKetoqCtYbhJhMJ8yMPw7B4srKIiz1RiVQHZ8Qf7oBCwv3yNGUU1BNlQOxkvklGReFZddFCOl4GIor3JjLyxKBhzdidr6UW7sJ3b3fV1h/pg99HQwkpOAb1+3Br7d+e13j0X1oH10NKTDb/53UPYPKwJcAJOgMRswGXxZOP1HTrDkF9jPV+zVTpK8/ddqgwrgx3DLJS/436Rmeu9R3lj+wi0ZVBCoFKVuz1lSWJKpdOGnnhDj/lWqq+M1Z+l7MoRpdC/ToWoUIamYRqFqlpipqyhpWENZ1SHqVnjNbhjggyJLAZZVAoSuOSRt31HoukzM1McoGfuMsm5A1N0L5SUb5oOOu/FRihClE6m5BD2NwyZNpxD3K0MRTcRM4ceVHicS8QX0CGFiaJzOeCE24g8xQpBFMxUKSYLkc1iEJ9gNMZkcgsvnZKI0oWGGUMi1NTIii65kmMZhAdwpPiSFEJKOkCoXgS4NBxvp1BfCM78PhdCIMKXgV1SVRSMhfAL05gkmDBk3IHrp2I2qLqW1QBYaU0JCJO5F4uNgIXhCD8I0khwEbnGnTEgaIUMZHeJctoxQLbKpznB6A+sON0CdfokcFAxiVEwM5Cd0JsIFKWyaiJPBYSFxkk9H7HQAAAA=') format('woff2'),
+  url('iconfont.woff?t=1602122956528') format('woff'),
+  url('iconfont.ttf?t=1602122956528') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1602122956528#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-file:before {
+  content: "\e737";
+}
+
+.icon-sanguohome:before {
+  content: "\e683";
+}
+
+.icon-friend:before {
+  content: "\e65c";
+}
+
